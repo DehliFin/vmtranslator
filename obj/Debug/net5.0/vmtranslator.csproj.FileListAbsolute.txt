@@ -1,0 +1,16 @@
+C:\programming\vmtranslator\vmtranslator\bin\Debug\net5.0\vmtranslator.exe
+C:\programming\vmtranslator\vmtranslator\bin\Debug\net5.0\vmtranslator.deps.json
+C:\programming\vmtranslator\vmtranslator\bin\Debug\net5.0\vmtranslator.runtimeconfig.json
+C:\programming\vmtranslator\vmtranslator\bin\Debug\net5.0\vmtranslator.runtimeconfig.dev.json
+C:\programming\vmtranslator\vmtranslator\bin\Debug\net5.0\vmtranslator.dll
+C:\programming\vmtranslator\vmtranslator\bin\Debug\net5.0\ref\vmtranslator.dll
+C:\programming\vmtranslator\vmtranslator\bin\Debug\net5.0\vmtranslator.pdb
+C:\programming\vmtranslator\vmtranslator\obj\Debug\net5.0\vmtranslator.csproj.AssemblyReference.cache
+C:\programming\vmtranslator\vmtranslator\obj\Debug\net5.0\vmtranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\vmtranslator\vmtranslator\obj\Debug\net5.0\vmtranslator.AssemblyInfoInputs.cache
+C:\programming\vmtranslator\vmtranslator\obj\Debug\net5.0\vmtranslator.AssemblyInfo.cs
+C:\programming\vmtranslator\vmtranslator\obj\Debug\net5.0\vmtranslator.csproj.CoreCompileInputs.cache
+C:\programming\vmtranslator\vmtranslator\obj\Debug\net5.0\vmtranslator.dll
+C:\programming\vmtranslator\vmtranslator\obj\Debug\net5.0\ref\vmtranslator.dll
+C:\programming\vmtranslator\vmtranslator\obj\Debug\net5.0\vmtranslator.pdb
+C:\programming\vmtranslator\vmtranslator\obj\Debug\net5.0\vmtranslator.genruntimeconfig.cache
